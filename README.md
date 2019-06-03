@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `yarn install`
+
+Installs all necessary dependencies.
+
 ### `yarn start`
 
 Runs the app in the development mode.<br>
@@ -19,3 +23,8 @@ You will also see any lint errors in the console.
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Dependencies
+
+This project uses [React Semantic UI](https://react.semantic-ui.com/).
+Semantic is a development framework that helps create beautiful, responsive layouts using human-friendly HTML.
