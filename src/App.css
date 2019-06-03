@@ -29,12 +29,8 @@
   margin-bottom: 10px;
 }
 
-.addButton{
+.add-button{
   float: left;
-}
-
-.no-items-message{
-  margin-top: 10px;
 }
 
 @keyframes App-logo-spin {
